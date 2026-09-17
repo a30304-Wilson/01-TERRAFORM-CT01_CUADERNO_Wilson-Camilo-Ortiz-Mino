@@ -117,3 +117,12 @@
 
 ### 08 — El proyecto empieza a crecer
 
+```
+183  mkdir terraform-08-organizacion
+184  cd terraform-08-organizacion
+185  code .
+186  terraform init
+187  terraform validate
+188  terraform plan
+189  history
+```
