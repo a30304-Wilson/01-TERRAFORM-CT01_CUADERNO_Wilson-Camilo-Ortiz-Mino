@@ -63,3 +63,54 @@
 136  terraform destroy
 137  history
 ```
+
+### 04 — Crear dos subredes
+
+```
+141  mkdir terraform-04-subnets
+142  cd terraform-04-subnets
+143  code .
+144  clear
+145  terraform init
+146  terraform validate
+147  terraform plan
+148  terraform apply
+149  terraform destroy
+150  history
+```
+
+### 05 — Security Groups
+
+```
+154  mkdir terraform-05-security-group
+155  cd terraform-05-security-group/
+156  code .
+157  terraform init
+158  terraform validate
+159  terraform plan
+160  histor
+```
+
+### 06 — Internet Gateway y rutas
+
+```
+163  mkdir terraform-06-routing
+164  cd terraform-06-routing
+165  code .
+166  terraform init
+167  terraform validate
+168  terraform plan
+169  history
+```
+
+### 07 — EC2 dentro de una subnet
+
+```
+173  mkdir terraform-07-ec2-subnet
+174  cd terraform-07-ec2-subnet/
+175  code .
+176  terraform init
+177  terraform validate
+178  terraform plan
+179  history
+```
