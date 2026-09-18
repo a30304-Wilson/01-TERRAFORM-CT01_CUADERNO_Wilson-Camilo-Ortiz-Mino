@@ -153,3 +153,18 @@
 79  code .
 80  history
 ```
+
+### 11 — Outputs
+
+```
+89  mkdir terraform-11-outputs
+90  cd terraform-11-outputs/
+91  code .
+92  terraform init
+93  terraform apply
+94  terraform ouput
+95  terraform output
+96  cd ..
+97  history
+```
+
