@@ -126,3 +126,30 @@
 188  terraform plan
 189  history
 ```
+
+### 09 — Variables en Terraform
+
+```
+53  mkdir terraform-09-variables
+54  cd terraform-09-variables/
+55  clear
+56  terraform init
+57  aws --version
+58  terraform --version
+63  clear
+64  terraform validate
+65  terraform plan
+66  history
+```
+
+### 10 — tfvars y entornos
+
+```
+74  mkdir terraform-10-tfvars
+75  clear
+76  cd ..
+77  clear
+78  cd terraform-10-tfvars/
+79  code .
+80  history
+```
